@@ -5,7 +5,7 @@
 
 - Variáveis
 - Operadores
-- Laços de repetição
+- Laços de repetiçãoll
 - Estruturas de decisões
 
 ## Objetivo
